@@ -1,6 +1,8 @@
 # Software Monitor
 
-A desktop tool for monitoring software updates on Windows systems.
+A tool usableto check your installed programms for updates or otther Versions
+
+!!! NOT FINISHED PLEASE PROVIDE HELP FOR THE UPDATE BUTTON
 
 ##Features
 
