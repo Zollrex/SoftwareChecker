@@ -1,6 +1,6 @@
 # Software Monitor
 
-A tool usableto check your installed programms for updates or otther Versions
+A tool usable to check your installed programms for updates or other Versions
 
 !!! NOT FINISHED PLEASE PROVIDE HELP FOR THE UPDATE BUTTON
 
