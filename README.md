@@ -33,7 +33,7 @@ After installation, you can start the program in two ways:
 software monitor
 ```
 
-2. By running main.py in the software_monitor directory
+2. By running software_monitor.py in the software_monitor directory
 
 ## System requirements
 
