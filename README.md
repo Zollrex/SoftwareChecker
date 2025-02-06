@@ -1,40 +1,42 @@
 # Software Monitor
 
-Ein Desktop-Tool zum Überwachen von Software-Updates auf Windows-Systemen.
+A desktop tool for monitoring software updates on Windows systems.
 
-## Features
+##Features
 
-- Überwacht installierte Software auf Updates
-- Modernes, dunkles Design mit CustomTkinter
-- Einfache Kategorisierung von Software
-- Benachrichtigungen bei verfügbaren Updates
-- Direkter Download-Link zu Updates
+- Monitors installed software for updates
+- Modern dark design with CustomTkinter
+- Easy categorization of software
+- Notifications when updates are available
+- Direct download link to updates
 
 ## Installation
 
-1. Stellen Sie sicher, dass Python 3.8 oder höher installiert ist
-2. Laden Sie dieses Repository herunter
-3. Öffnen Sie ein Terminal im Projektverzeichnis
-4. Führen Sie folgende Befehle aus:
+1. Make sure Python 3.8 or later is installed
+2. Download this repository
+3. Open a terminal in the project directory
+4. Run the following commands:
 
 ```bash
 pip install -r requirements.txt
 pip install .
 ```
 
-## Verwendung
+## Usage
 
-Nach der Installation können Sie das Programm auf zwei Arten starten:
+After installation, you can start the program in two ways:
 
-1. Über die Kommandozeile:
+1. From the command line:
 ```bash
-software-monitor
+software monitor
 ```
 
-2. Durch Ausführen der main.py im software_monitor Verzeichnis
+2. By running main.py in the software_monitor directory
 
-## Systemanforderungen
+## System requirements
 
-- Windows 10 oder höher
-- Python 3.8 oder höher
-- Internetverbindung für Update-Prüfungen
+- Windows 10 or higher
+- Python 3.8 or higher
+- Internet connection for update checks
+
+
